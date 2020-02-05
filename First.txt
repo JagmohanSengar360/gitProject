@@ -7,3 +7,6 @@ change - payment feature
 change - to fix bug1
 
 change - change made by another team member from remote repo
+
+change - to fix bug2
+
